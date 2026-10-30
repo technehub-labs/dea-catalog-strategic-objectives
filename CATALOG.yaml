@@ -1,0 +1,27 @@
+catalog:
+  abbreviation: SO
+  counts:
+    candidates: 0
+    canonical: 0
+    entities: 0
+    open_change_requests: 0
+    research_files: 0
+    retired: 0
+  cross_cutting:
+    change_requests: change-requests/
+    classifications: classifications/
+    contributions_queue: contributions/
+    schemas: schemas/
+    validators: scripts/
+  description: 'A high-level enterprise outcome the organisation seeks to achieve.
+
+    '
+  entities: []
+  id: dea:catalog-strategic-objectives
+  metamodel_version: 1.0.0
+  name: Strategic Objective
+  owner: TechNeHub Labs
+  repository: https://github.com/technehub-labs/dea-catalog-strategic-objectives.git
+  research_registers: []
+  status: active
+  version: 0.1.0
