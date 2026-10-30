@@ -1,25 +1,32 @@
 # Metamodel Pointer — Strategic Objective
-# Auto-generated from OpenDEAM v0.2.1 (dea-architecture-framework, ADR-0002).
-# Do not edit manually — allocation changes go through the root model
-# (structural: ADR + minor bump; additive: PR + patch bump).
-metamodel:
-  version: v0.2.1
-  entity_id: dea:entity-strategic-objective
-  class_alias: SO
-  layer: L2
-  building_block: L2-intent
-  viewer_url: "https://technehub-labs.github.io/metamodel/?entity=SO"
-
-catalog:
-  name: Strategic Objective
-  repo: technehub-labs/dea-catalog-strategic-objectives
-  status: planned
-
+#
+# Two consumers, two blocks (see FOUNDATIONS §5):
+#   - the top-level identity keys are consumed by the vendored
+#     regenerate_catalog.py to build CATALOG.yaml's catalog block;
+#   - the `metamodel:` allocation block is validated by
+#     dea-architecture-framework validate-against-model.yml
+#     against the pinned root-model ref (v0.8.0), and asserted
+#     locally by scripts/check_pointer.py.
+#
+# Allocation changes go through the root model, not this file.
+id: dea:catalog-strategic-objectives
+name: Strategic Objective
+abbreviation: SO
+version: 0.1.0
+status: active
+metamodel_version: 1.0.0
+owner: TechNeHub Labs
 description: |
   A high-level enterprise outcome the organisation seeks to achieve.
-
+metamodel:
+  building_block: L2-intent
+  class_alias: SO
+  entity_id: dea:entity-strategic-objective
+  layer: L2
+  version: v0.8.0
+  viewer_url: https://technehub-labs.github.io/metamodel/?entity=SO
 links:
   metamodel_repo: https://github.com/technehub-labs/dea-metamodel
   root_model: https://github.com/technehub-labs/dea-architecture-framework
-  viewer: "https://technehub-labs.github.io/metamodel/?entity=SO"
+  viewer: https://technehub-labs.github.io/metamodel/?entity=SO
   github: https://github.com/technehub-labs/dea-catalog-strategic-objectives
