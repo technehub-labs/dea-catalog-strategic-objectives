@@ -1,0 +1,33 @@
+id: dea:strategic-objective-sdg-target-16-10-kqzcp9
+type: StrategicObjective
+name: SDG Target 16.10 (Peace, Justice and Strong Institutions)
+description: UN Sustainable Development Target 16.10 under Goal 16 (Peace, Justice
+  and Strong Institutions) — a published objective component of the 2030 Agenda. Target
+  text is published verbatim at the cited page.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://sdgs.un.org/goals/goal16 (UN 2030 Agenda; Target 16.10)
+  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers
+    verbatim; target text published at the cited page).
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- un-sdg
+- goal-16
+- target

@@ -1,0 +1,32 @@
+id: dea:strategic-objective-sdg-10-reduced-inequalities-ypub7w
+type: StrategicObjective
+name: 'SDG 10: Reduced Inequalities'
+description: UN Sustainable Development Goal 10 (Reduced Inequalities) — published
+  objective of the 2030 Agenda for Sustainable Development, adopted by all UN Member
+  States.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://sdgs.un.org/goals/goal10 (UN 2030 Agenda; Goal 10)
+  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org).
+    Goal identifiers verbatim from the published framework.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- un-sdg
+- goal-10

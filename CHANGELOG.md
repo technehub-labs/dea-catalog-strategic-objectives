@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-SO-CAT-04: StrategicObjective Candidate Admission Batch 05
+
+Admitted 180 new `StrategicObjective` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +180, canonical unchanged; queue entries flipped to `admitted`.
+
 ### CR-SO-CAT-03: StrategicObjective Candidate Corpus
 
 180 StrategicObjective candidate submissions landed in the contribution queue (sharded, gate-CONFORMANT) from 1 evidence bank(s); published prose + evidence citations + source_refs; provenance in ingestion/manifest.yaml. No catalog entities change; admission follows in SO-CAT-04+.

@@ -1,18 +1,21 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Goal 11
 name: 'SDG 11: Sustainable Cities and Communities'
-description: UN Sustainable Development Goal 11 (Sustainable Cities and Communities) — published objective
-  of the 2030 Agenda for Sustainable Development, adopted by all UN Member States.
+description: UN Sustainable Development Goal 11 (Sustainable Cities and Communities)
+  — published objective of the 2030 Agenda for Sustainable Development, adopted by
+  all UN Member States.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal11 (UN 2030 Agenda; Goal 11)
-  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org). Goal identifiers verbatim
-    from the published framework.
+  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org).
+    Goal identifiers verbatim from the published framework.
 tags:
 - un-sdg
 - goal-11
 slug: sdg-11-sustainable-cities-and-communities
+assigned_id: dea:strategic-objective-sdg-11-sustainable-cities-and-communities-feh4y2
+admitted: '2026-11-15'

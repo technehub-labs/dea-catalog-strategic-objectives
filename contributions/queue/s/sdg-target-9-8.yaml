@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Target 9.8
 name: SDG Target 9.8 (Industry, Innovation and Infrastructure)
-description: UN Sustainable Development Target 9.8 under Goal 9 (Industry, Innovation and Infrastructure)
-  — a published objective component of the 2030 Agenda. Target text is published verbatim at the cited
-  page.
+description: UN Sustainable Development Target 9.8 under Goal 9 (Industry, Innovation
+  and Infrastructure) — a published objective component of the 2030 Agenda. Target
+  text is published verbatim at the cited page.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal9 (UN 2030 Agenda; Target 9.8)
-  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers verbatim; target
-    text published at the cited page).
+  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers
+    verbatim; target text published at the cited page).
 tags:
 - un-sdg
 - goal-9
 - target
 slug: sdg-target-9-8
+assigned_id: dea:strategic-objective-sdg-target-9-8-tat468
+admitted: '2026-11-15'

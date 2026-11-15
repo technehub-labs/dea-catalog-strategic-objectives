@@ -1,18 +1,20 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Goal 14
 name: 'SDG 14: Life Below Water'
-description: UN Sustainable Development Goal 14 (Life Below Water) — published objective of the 2030 Agenda
-  for Sustainable Development, adopted by all UN Member States.
+description: UN Sustainable Development Goal 14 (Life Below Water) — published objective
+  of the 2030 Agenda for Sustainable Development, adopted by all UN Member States.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal14 (UN 2030 Agenda; Goal 14)
-  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org). Goal identifiers verbatim
-    from the published framework.
+  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org).
+    Goal identifiers verbatim from the published framework.
 tags:
 - un-sdg
 - goal-14
 slug: sdg-14-life-below-water
+assigned_id: dea:strategic-objective-sdg-14-life-below-water-uy5vzm
+admitted: '2026-11-15'
