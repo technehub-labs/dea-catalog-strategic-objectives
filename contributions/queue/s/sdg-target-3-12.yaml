@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Target 3.12
 name: SDG Target 3.12 (Good Health and Well-being)
-description: UN Sustainable Development Target 3.12 under Goal 3 (Good Health and Well-being) — a published
-  objective component of the 2030 Agenda. Target text is published verbatim at the cited page.
+description: UN Sustainable Development Target 3.12 under Goal 3 (Good Health and
+  Well-being) — a published objective component of the 2030 Agenda. Target text is
+  published verbatim at the cited page.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal3 (UN 2030 Agenda; Target 3.12)
-  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers verbatim; target
-    text published at the cited page).
+  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers
+    verbatim; target text published at the cited page).
 tags:
 - un-sdg
 - goal-3
 - target
 slug: sdg-target-3-12
+assigned_id: dea:strategic-objective-sdg-target-3-12-3jq6uu
+admitted: '2026-11-15'

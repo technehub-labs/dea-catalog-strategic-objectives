@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Target 15.7
 name: SDG Target 15.7 (Life on Land)
-description: UN Sustainable Development Target 15.7 under Goal 15 (Life on Land) — a published objective
-  component of the 2030 Agenda. Target text is published verbatim at the cited page.
+description: UN Sustainable Development Target 15.7 under Goal 15 (Life on Land) —
+  a published objective component of the 2030 Agenda. Target text is published verbatim
+  at the cited page.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal15 (UN 2030 Agenda; Target 15.7)
-  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers verbatim; target
-    text published at the cited page).
+  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers
+    verbatim; target text published at the cited page).
 tags:
 - un-sdg
 - goal-15
 - target
 slug: sdg-target-15-7
+assigned_id: dea:strategic-objective-sdg-target-15-7-kymzp3
+admitted: '2026-11-15'

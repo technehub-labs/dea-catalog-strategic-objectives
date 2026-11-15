@@ -1,18 +1,21 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Goal 9
 name: 'SDG 9: Industry, Innovation and Infrastructure'
-description: UN Sustainable Development Goal 9 (Industry, Innovation and Infrastructure) — published objective
-  of the 2030 Agenda for Sustainable Development, adopted by all UN Member States.
+description: UN Sustainable Development Goal 9 (Industry, Innovation and Infrastructure)
+  — published objective of the 2030 Agenda for Sustainable Development, adopted by
+  all UN Member States.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal9 (UN 2030 Agenda; Goal 9)
-  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org). Goal identifiers verbatim
-    from the published framework.
+  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org).
+    Goal identifiers verbatim from the published framework.
 tags:
 - un-sdg
 - goal-9
 slug: sdg-9-industry-innovation-and-infrastructure
+assigned_id: dea:strategic-objective-sdg-9-industry-innovation-and-infrastructure-ke4r5y
+admitted: '2026-11-15'

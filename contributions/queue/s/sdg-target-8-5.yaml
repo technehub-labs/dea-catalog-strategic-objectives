@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Target 8.5
 name: SDG Target 8.5 (Decent Work and Economic Growth)
-description: UN Sustainable Development Target 8.5 under Goal 8 (Decent Work and Economic Growth) — a
-  published objective component of the 2030 Agenda. Target text is published verbatim at the cited page.
+description: UN Sustainable Development Target 8.5 under Goal 8 (Decent Work and Economic
+  Growth) — a published objective component of the 2030 Agenda. Target text is published
+  verbatim at the cited page.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal8 (UN 2030 Agenda; Target 8.5)
-  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers verbatim; target
-    text published at the cited page).
+  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers
+    verbatim; target text published at the cited page).
 tags:
 - un-sdg
 - goal-8
 - target
 slug: sdg-target-8-5
+assigned_id: dea:strategic-objective-sdg-target-8-5-k2yhfr
+admitted: '2026-11-15'

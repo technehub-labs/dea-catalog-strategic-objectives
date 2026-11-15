@@ -1,9 +1,9 @@
 catalog:
   abbreviation: SO
   counts:
-    candidates: 0
+    candidates: 180
     canonical: 0
-    entities: 0
+    entities: 180
     open_change_requests: 0
     research_files: 0
     retired: 0
@@ -16,12 +16,2532 @@ catalog:
   description: 'A high-level enterprise outcome the organisation seeks to achieve.
 
     '
-  entities: []
+  entities:
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-1-no-poverty-vfb43y
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-1-no-poverty-vfb43y/candidates/dea-strategic-objective-sdg-1-no-poverty-vfb43y.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-10-reduced-inequalities-ypub7w
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-10-reduced-inequalities-ypub7w/candidates/dea-strategic-objective-sdg-10-reduced-inequalities-ypub7w.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-11-sustainable-cities-and-communities-feh4y2
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-11-sustainable-cities-and-communities-feh4y2/candidates/dea-strategic-objective-sdg-11-sustainable-cities-and-communities-feh4y2.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-12-responsible-consumption-and-production-7x2wmc
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-12-responsible-consumption-and-production-7x2wmc/candidates/dea-strategic-objective-sdg-12-responsible-consumption-and-production-7x2wmc.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-13-climate-action-zne4mx
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-13-climate-action-zne4mx/candidates/dea-strategic-objective-sdg-13-climate-action-zne4mx.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-14-life-below-water-uy5vzm
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-14-life-below-water-uy5vzm/candidates/dea-strategic-objective-sdg-14-life-below-water-uy5vzm.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-15-life-on-land-zsr4er
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-15-life-on-land-zsr4er/candidates/dea-strategic-objective-sdg-15-life-on-land-zsr4er.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-16-peace-justice-and-strong-institutions-uuad37
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-16-peace-justice-and-strong-institutions-uuad37/candidates/dea-strategic-objective-sdg-16-peace-justice-and-strong-institutions-uuad37.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-17-partnerships-for-the-goals-nhd5m3
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-17-partnerships-for-the-goals-nhd5m3/candidates/dea-strategic-objective-sdg-17-partnerships-for-the-goals-nhd5m3.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-2-zero-hunger-mxqwz5
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-2-zero-hunger-mxqwz5/candidates/dea-strategic-objective-sdg-2-zero-hunger-mxqwz5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-3-good-health-and-well-being-ht5d6g
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-3-good-health-and-well-being-ht5d6g/candidates/dea-strategic-objective-sdg-3-good-health-and-well-being-ht5d6g.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-4-quality-education-664za6
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-4-quality-education-664za6/candidates/dea-strategic-objective-sdg-4-quality-education-664za6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-5-gender-equality-prmgmp
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-5-gender-equality-prmgmp/candidates/dea-strategic-objective-sdg-5-gender-equality-prmgmp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-6-clean-water-and-sanitation-vry7b5
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-6-clean-water-and-sanitation-vry7b5/candidates/dea-strategic-objective-sdg-6-clean-water-and-sanitation-vry7b5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-7-affordable-and-clean-energy-be5zqp
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-7-affordable-and-clean-energy-be5zqp/candidates/dea-strategic-objective-sdg-7-affordable-and-clean-energy-be5zqp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-8-decent-work-and-economic-growth-8s3374
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-8-decent-work-and-economic-growth-8s3374/candidates/dea-strategic-objective-sdg-8-decent-work-and-economic-growth-8s3374.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-9-industry-innovation-and-infrastructure-ke4r5y
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-9-industry-innovation-and-infrastructure-ke4r5y/candidates/dea-strategic-objective-sdg-9-industry-innovation-and-infrastructure-ke4r5y.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-1-1-zx3wkv
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-1-1-zx3wkv/candidates/dea-strategic-objective-sdg-target-1-1-zx3wkv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-1-2-dvp5x3
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-1-2-dvp5x3/candidates/dea-strategic-objective-sdg-target-1-2-dvp5x3.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-1-3-2m3uva
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-1-3-2m3uva/candidates/dea-strategic-objective-sdg-target-1-3-2m3uva.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-1-4-5r95wm
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-1-4-5r95wm/candidates/dea-strategic-objective-sdg-target-1-4-5r95wm.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-1-5-rusakd
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-1-5-rusakd/candidates/dea-strategic-objective-sdg-target-1-5-rusakd.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-1-6-mu3gzw
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-1-6-mu3gzw/candidates/dea-strategic-objective-sdg-target-1-6-mu3gzw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-1-7-jdng53
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-1-7-jdng53/candidates/dea-strategic-objective-sdg-target-1-7-jdng53.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-1-kuwbvb
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-1-kuwbvb/candidates/dea-strategic-objective-sdg-target-10-1-kuwbvb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-10-nvj9c6
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-10-nvj9c6/candidates/dea-strategic-objective-sdg-target-10-10-nvj9c6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-2-kd3gvn
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-2-kd3gvn/candidates/dea-strategic-objective-sdg-target-10-2-kd3gvn.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-3-6jb5bp
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-3-6jb5bp/candidates/dea-strategic-objective-sdg-target-10-3-6jb5bp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-4-54ueq5
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-4-54ueq5/candidates/dea-strategic-objective-sdg-target-10-4-54ueq5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-5-yv6w54
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-5-yv6w54/candidates/dea-strategic-objective-sdg-target-10-5-yv6w54.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-6-4h84wu
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-6-4h84wu/candidates/dea-strategic-objective-sdg-target-10-6-4h84wu.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-7-yxy9w3
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-7-yxy9w3/candidates/dea-strategic-objective-sdg-target-10-7-yxy9w3.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-8-7uv2em
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-8-7uv2em/candidates/dea-strategic-objective-sdg-target-10-8-7uv2em.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-10-9-j9trsa
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-10-9-j9trsa/candidates/dea-strategic-objective-sdg-target-10-9-j9trsa.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-1-y8u84j
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-1-y8u84j/candidates/dea-strategic-objective-sdg-target-11-1-y8u84j.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-10-ntvcr9
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-10-ntvcr9/candidates/dea-strategic-objective-sdg-target-11-10-ntvcr9.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-2-2prruf
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-2-2prruf/candidates/dea-strategic-objective-sdg-target-11-2-2prruf.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-3-t3xtxa
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-3-t3xtxa/candidates/dea-strategic-objective-sdg-target-11-3-t3xtxa.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-4-ytxu69
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-4-ytxu69/candidates/dea-strategic-objective-sdg-target-11-4-ytxu69.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-5-3dxvvk
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-5-3dxvvk/candidates/dea-strategic-objective-sdg-target-11-5-3dxvvk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-6-2byayh
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-6-2byayh/candidates/dea-strategic-objective-sdg-target-11-6-2byayh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-7-z89hn6
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-7-z89hn6/candidates/dea-strategic-objective-sdg-target-11-7-z89hn6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-8-p2mtsh
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-8-p2mtsh/candidates/dea-strategic-objective-sdg-target-11-8-p2mtsh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-11-9-ypyqse
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-11-9-ypyqse/candidates/dea-strategic-objective-sdg-target-11-9-ypyqse.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-1-b93gak
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-1-b93gak/candidates/dea-strategic-objective-sdg-target-12-1-b93gak.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-10-xnyass
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-10-xnyass/candidates/dea-strategic-objective-sdg-target-12-10-xnyass.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-11-nt46kb
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-11-nt46kb/candidates/dea-strategic-objective-sdg-target-12-11-nt46kb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-2-hcmga8
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-2-hcmga8/candidates/dea-strategic-objective-sdg-target-12-2-hcmga8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-3-6nxsvt
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-3-6nxsvt/candidates/dea-strategic-objective-sdg-target-12-3-6nxsvt.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-4-2rbc9c
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-4-2rbc9c/candidates/dea-strategic-objective-sdg-target-12-4-2rbc9c.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-5-ncj5ju
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-5-ncj5ju/candidates/dea-strategic-objective-sdg-target-12-5-ncj5ju.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-6-cs25y7
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-6-cs25y7/candidates/dea-strategic-objective-sdg-target-12-6-cs25y7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-7-g9bnxx
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-7-g9bnxx/candidates/dea-strategic-objective-sdg-target-12-7-g9bnxx.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-8-p3kj7r
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-8-p3kj7r/candidates/dea-strategic-objective-sdg-target-12-8-p3kj7r.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-12-9-mvc4uh
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-12-9-mvc4uh/candidates/dea-strategic-objective-sdg-target-12-9-mvc4uh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-13-1-z8uqjw
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-13-1-z8uqjw/candidates/dea-strategic-objective-sdg-target-13-1-z8uqjw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-13-2-48dt64
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-13-2-48dt64/candidates/dea-strategic-objective-sdg-target-13-2-48dt64.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-13-3-z6nww8
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-13-3-z6nww8/candidates/dea-strategic-objective-sdg-target-13-3-z6nww8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-13-4-pq5p9w
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-13-4-pq5p9w/candidates/dea-strategic-objective-sdg-target-13-4-pq5p9w.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-13-5-vv984g
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-13-5-vv984g/candidates/dea-strategic-objective-sdg-target-13-5-vv984g.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-14-1-hu2v6j
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-14-1-hu2v6j/candidates/dea-strategic-objective-sdg-target-14-1-hu2v6j.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-14-2-8qufzg
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-14-2-8qufzg/candidates/dea-strategic-objective-sdg-target-14-2-8qufzg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-14-3-ezq5qu
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-14-3-ezq5qu/candidates/dea-strategic-objective-sdg-target-14-3-ezq5qu.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-14-4-anrery
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-14-4-anrery/candidates/dea-strategic-objective-sdg-target-14-4-anrery.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-14-5-9m4m32
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-14-5-9m4m32/candidates/dea-strategic-objective-sdg-target-14-5-9m4m32.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-14-6-2qqer5
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-14-6-2qqer5/candidates/dea-strategic-objective-sdg-target-14-6-2qqer5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-14-7-ck5h7t
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-14-7-ck5h7t/candidates/dea-strategic-objective-sdg-target-14-7-ck5h7t.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-1-95b4wh
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-1-95b4wh/candidates/dea-strategic-objective-sdg-target-15-1-95b4wh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-2-9qym8f
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-2-9qym8f/candidates/dea-strategic-objective-sdg-target-15-2-9qym8f.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-3-tpmtng
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-3-tpmtng/candidates/dea-strategic-objective-sdg-target-15-3-tpmtng.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-4-xp7p5m
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-4-xp7p5m/candidates/dea-strategic-objective-sdg-target-15-4-xp7p5m.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-5-zjy2f7
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-5-zjy2f7/candidates/dea-strategic-objective-sdg-target-15-5-zjy2f7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-6-5t85dx
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-6-5t85dx/candidates/dea-strategic-objective-sdg-target-15-6-5t85dx.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-7-kymzp3
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-7-kymzp3/candidates/dea-strategic-objective-sdg-target-15-7-kymzp3.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-8-t2wqut
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-8-t2wqut/candidates/dea-strategic-objective-sdg-target-15-8-t2wqut.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-15-9-qchgv5
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-15-9-qchgv5/candidates/dea-strategic-objective-sdg-target-15-9-qchgv5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-1-u6py53
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-1-u6py53/candidates/dea-strategic-objective-sdg-target-16-1-u6py53.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-10-kqzcp9
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-10-kqzcp9/candidates/dea-strategic-objective-sdg-target-16-10-kqzcp9.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-11-p4ecfa
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-11-p4ecfa/candidates/dea-strategic-objective-sdg-target-16-11-p4ecfa.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-12-jweucu
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-12-jweucu/candidates/dea-strategic-objective-sdg-target-16-12-jweucu.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-2-h3hqr5
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-2-h3hqr5/candidates/dea-strategic-objective-sdg-target-16-2-h3hqr5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-3-a84k4x
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-3-a84k4x/candidates/dea-strategic-objective-sdg-target-16-3-a84k4x.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-4-n8nce4
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-4-n8nce4/candidates/dea-strategic-objective-sdg-target-16-4-n8nce4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-5-42bs66
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-5-42bs66/candidates/dea-strategic-objective-sdg-target-16-5-42bs66.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-6-knxswe
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-6-knxswe/candidates/dea-strategic-objective-sdg-target-16-6-knxswe.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-7-wk3bzr
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-7-wk3bzr/candidates/dea-strategic-objective-sdg-target-16-7-wk3bzr.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-8-j4nt4p
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-8-j4nt4p/candidates/dea-strategic-objective-sdg-target-16-8-j4nt4p.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-16-9-juq4uu
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-16-9-juq4uu/candidates/dea-strategic-objective-sdg-target-16-9-juq4uu.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-1-xcgmvd
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-1-xcgmvd/candidates/dea-strategic-objective-sdg-target-17-1-xcgmvd.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-10-axpvtw
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-10-axpvtw/candidates/dea-strategic-objective-sdg-target-17-10-axpvtw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-11-hq47bt
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-11-hq47bt/candidates/dea-strategic-objective-sdg-target-17-11-hq47bt.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-12-nc3pvr
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-12-nc3pvr/candidates/dea-strategic-objective-sdg-target-17-12-nc3pvr.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-13-vnky4p
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-13-vnky4p/candidates/dea-strategic-objective-sdg-target-17-13-vnky4p.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-14-xtcc3u
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-14-xtcc3u/candidates/dea-strategic-objective-sdg-target-17-14-xtcc3u.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-15-jk3yhv
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-15-jk3yhv/candidates/dea-strategic-objective-sdg-target-17-15-jk3yhv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-16-hnzhrv
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-16-hnzhrv/candidates/dea-strategic-objective-sdg-target-17-16-hnzhrv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-17-z7x2uv
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-17-z7x2uv/candidates/dea-strategic-objective-sdg-target-17-17-z7x2uv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-18-buyxwa
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-18-buyxwa/candidates/dea-strategic-objective-sdg-target-17-18-buyxwa.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-19-prxsua
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-19-prxsua/candidates/dea-strategic-objective-sdg-target-17-19-prxsua.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-2-3an4mn
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-2-3an4mn/candidates/dea-strategic-objective-sdg-target-17-2-3an4mn.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-3-mb3vyz
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-3-mb3vyz/candidates/dea-strategic-objective-sdg-target-17-3-mb3vyz.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-4-gsd8x5
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-4-gsd8x5/candidates/dea-strategic-objective-sdg-target-17-4-gsd8x5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-5-4hqgsg
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-5-4hqgsg/candidates/dea-strategic-objective-sdg-target-17-5-4hqgsg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-6-n3bfwh
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-6-n3bfwh/candidates/dea-strategic-objective-sdg-target-17-6-n3bfwh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-7-y36d2w
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-7-y36d2w/candidates/dea-strategic-objective-sdg-target-17-7-y36d2w.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-8-e7t8wn
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-8-e7t8wn/candidates/dea-strategic-objective-sdg-target-17-8-e7t8wn.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-17-9-9m9znf
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-17-9-9m9znf/candidates/dea-strategic-objective-sdg-target-17-9-9m9znf.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-2-1-9va52j
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-2-1-9va52j/candidates/dea-strategic-objective-sdg-target-2-1-9va52j.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-2-2-fsvsfe
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-2-2-fsvsfe/candidates/dea-strategic-objective-sdg-target-2-2-fsvsfe.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-2-3-am9jmn
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-2-3-am9jmn/candidates/dea-strategic-objective-sdg-target-2-3-am9jmn.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-2-4-bns8s6
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-2-4-bns8s6/candidates/dea-strategic-objective-sdg-target-2-4-bns8s6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-2-5-n373fj
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-2-5-n373fj/candidates/dea-strategic-objective-sdg-target-2-5-n373fj.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-2-6-a4n3r7
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-2-6-a4n3r7/candidates/dea-strategic-objective-sdg-target-2-6-a4n3r7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-2-7-rf5mue
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-2-7-rf5mue/candidates/dea-strategic-objective-sdg-target-2-7-rf5mue.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-2-8-gk7kvq
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-2-8-gk7kvq/candidates/dea-strategic-objective-sdg-target-2-8-gk7kvq.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-1-ph8vam
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-1-ph8vam/candidates/dea-strategic-objective-sdg-target-3-1-ph8vam.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-10-3394r4
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-10-3394r4/candidates/dea-strategic-objective-sdg-target-3-10-3394r4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-11-bmhppr
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-11-bmhppr/candidates/dea-strategic-objective-sdg-target-3-11-bmhppr.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-12-3jq6uu
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-12-3jq6uu/candidates/dea-strategic-objective-sdg-target-3-12-3jq6uu.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-13-xatpfv
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-13-xatpfv/candidates/dea-strategic-objective-sdg-target-3-13-xatpfv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-2-7dj879
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-2-7dj879/candidates/dea-strategic-objective-sdg-target-3-2-7dj879.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-3-ftgt6f
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-3-ftgt6f/candidates/dea-strategic-objective-sdg-target-3-3-ftgt6f.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-4-s73jms
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-4-s73jms/candidates/dea-strategic-objective-sdg-target-3-4-s73jms.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-5-tyzfqb
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-5-tyzfqb/candidates/dea-strategic-objective-sdg-target-3-5-tyzfqb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-6-b99r2f
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-6-b99r2f/candidates/dea-strategic-objective-sdg-target-3-6-b99r2f.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-7-z6tpxh
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-7-z6tpxh/candidates/dea-strategic-objective-sdg-target-3-7-z6tpxh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-8-fgq9kh
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-8-fgq9kh/candidates/dea-strategic-objective-sdg-target-3-8-fgq9kh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-3-9-kny3dp
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-3-9-kny3dp/candidates/dea-strategic-objective-sdg-target-3-9-kny3dp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-1-g3rdp4
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-1-g3rdp4/candidates/dea-strategic-objective-sdg-target-4-1-g3rdp4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-10-d9a8tj
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-10-d9a8tj/candidates/dea-strategic-objective-sdg-target-4-10-d9a8tj.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-2-rfteaw
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-2-rfteaw/candidates/dea-strategic-objective-sdg-target-4-2-rfteaw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-3-45qwnt
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-3-45qwnt/candidates/dea-strategic-objective-sdg-target-4-3-45qwnt.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-4-gumyzn
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-4-gumyzn/candidates/dea-strategic-objective-sdg-target-4-4-gumyzn.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-5-dtzsxv
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-5-dtzsxv/candidates/dea-strategic-objective-sdg-target-4-5-dtzsxv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-6-mjksnf
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-6-mjksnf/candidates/dea-strategic-objective-sdg-target-4-6-mjksnf.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-7-enyzvb
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-7-enyzvb/candidates/dea-strategic-objective-sdg-target-4-7-enyzvb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-8-8b3nz7
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-8-8b3nz7/candidates/dea-strategic-objective-sdg-target-4-8-8b3nz7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-4-9-5ces4k
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-4-9-5ces4k/candidates/dea-strategic-objective-sdg-target-4-9-5ces4k.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-1-m5bnw8
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-1-m5bnw8/candidates/dea-strategic-objective-sdg-target-5-1-m5bnw8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-2-h4xtxy
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-2-h4xtxy/candidates/dea-strategic-objective-sdg-target-5-2-h4xtxy.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-3-4znbx2
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-3-4znbx2/candidates/dea-strategic-objective-sdg-target-5-3-4znbx2.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-4-9en42e
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-4-9en42e/candidates/dea-strategic-objective-sdg-target-5-4-9en42e.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-5-7q4hmk
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-5-7q4hmk/candidates/dea-strategic-objective-sdg-target-5-5-7q4hmk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-6-ccn35t
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-6-ccn35t/candidates/dea-strategic-objective-sdg-target-5-6-ccn35t.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-7-vs7mtc
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-7-vs7mtc/candidates/dea-strategic-objective-sdg-target-5-7-vs7mtc.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-8-tb45u6
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-8-tb45u6/candidates/dea-strategic-objective-sdg-target-5-8-tb45u6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-5-9-rhh25c
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-5-9-rhh25c/candidates/dea-strategic-objective-sdg-target-5-9-rhh25c.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-6-1-fdet5a
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-6-1-fdet5a/candidates/dea-strategic-objective-sdg-target-6-1-fdet5a.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-6-2-uj74wr
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-6-2-uj74wr/candidates/dea-strategic-objective-sdg-target-6-2-uj74wr.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-6-3-ft8mcp
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-6-3-ft8mcp/candidates/dea-strategic-objective-sdg-target-6-3-ft8mcp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-6-4-ez3t55
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-6-4-ez3t55/candidates/dea-strategic-objective-sdg-target-6-4-ez3t55.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-6-5-9mw76u
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-6-5-9mw76u/candidates/dea-strategic-objective-sdg-target-6-5-9mw76u.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-6-6-twupeg
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-6-6-twupeg/candidates/dea-strategic-objective-sdg-target-6-6-twupeg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-6-7-4454sd
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-6-7-4454sd/candidates/dea-strategic-objective-sdg-target-6-7-4454sd.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-6-8-dcx2hz
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-6-8-dcx2hz/candidates/dea-strategic-objective-sdg-target-6-8-dcx2hz.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-7-1-s7vd6u
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-7-1-s7vd6u/candidates/dea-strategic-objective-sdg-target-7-1-s7vd6u.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-7-2-zqn3un
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-7-2-zqn3un/candidates/dea-strategic-objective-sdg-target-7-2-zqn3un.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-7-3-e8889k
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-7-3-e8889k/candidates/dea-strategic-objective-sdg-target-7-3-e8889k.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-7-4-3cbn56
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-7-4-3cbn56/candidates/dea-strategic-objective-sdg-target-7-4-3cbn56.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-7-5-8yfccj
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-7-5-8yfccj/candidates/dea-strategic-objective-sdg-target-7-5-8yfccj.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-1-3nqqen
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-1-3nqqen/candidates/dea-strategic-objective-sdg-target-8-1-3nqqen.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-10-s7dvs5
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-10-s7dvs5/candidates/dea-strategic-objective-sdg-target-8-10-s7dvs5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-11-qaz5df
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-11-qaz5df/candidates/dea-strategic-objective-sdg-target-8-11-qaz5df.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-12-42thsp
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-12-42thsp/candidates/dea-strategic-objective-sdg-target-8-12-42thsp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-2-37rnsw
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-2-37rnsw/candidates/dea-strategic-objective-sdg-target-8-2-37rnsw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-3-h3hsu4
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-3-h3hsu4/candidates/dea-strategic-objective-sdg-target-8-3-h3hsu4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-4-gfrxww
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-4-gfrxww/candidates/dea-strategic-objective-sdg-target-8-4-gfrxww.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-5-k2yhfr
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-5-k2yhfr/candidates/dea-strategic-objective-sdg-target-8-5-k2yhfr.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-6-eukam2
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-6-eukam2/candidates/dea-strategic-objective-sdg-target-8-6-eukam2.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-7-hadhmv
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-7-hadhmv/candidates/dea-strategic-objective-sdg-target-8-7-hadhmv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-8-v3bhge
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-8-v3bhge/candidates/dea-strategic-objective-sdg-target-8-8-v3bhge.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-8-9-wq69xm
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-8-9-wq69xm/candidates/dea-strategic-objective-sdg-target-8-9-wq69xm.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-9-1-6fvc6s
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-9-1-6fvc6s/candidates/dea-strategic-objective-sdg-target-9-1-6fvc6s.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-9-2-uyjpvb
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-9-2-uyjpvb/candidates/dea-strategic-objective-sdg-target-9-2-uyjpvb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-9-3-g85x4m
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-9-3-g85x4m/candidates/dea-strategic-objective-sdg-target-9-3-g85x4m.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-9-4-6babnu
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-9-4-6babnu/candidates/dea-strategic-objective-sdg-target-9-4-6babnu.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-9-5-kn87tw
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-9-5-kn87tw/candidates/dea-strategic-objective-sdg-target-9-5-kn87tw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-9-6-cunz39
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-9-6-cunz39/candidates/dea-strategic-objective-sdg-target-9-6-cunz39.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-9-7-jrcdev
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-9-7-jrcdev/candidates/dea-strategic-objective-sdg-target-9-7-jrcdev.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:strategic-objective-sdg-target-9-8-tat468
+    last_modified: '2026-11-15'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sdg-target-9-8-tat468/candidates/dea-strategic-objective-sdg-target-9-8-tat468.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
   id: dea:catalog-strategic-objectives
   metamodel_version: 1.0.0
   name: Strategic Objective
   owner: TechNeHub Labs
   repository: https://github.com/technehub-labs/dea-catalog-strategic-objectives.git
-  research_registers: []
+  research_registers:
+  - entity_id: dea:strategic-objective-sdg-1-no-poverty-vfb43y
+    files: []
+    path: entities/v1-alpha/s/sdg-1-no-poverty-vfb43y/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-10-reduced-inequalities-ypub7w
+    files: []
+    path: entities/v1-alpha/s/sdg-10-reduced-inequalities-ypub7w/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-11-sustainable-cities-and-communities-feh4y2
+    files: []
+    path: entities/v1-alpha/s/sdg-11-sustainable-cities-and-communities-feh4y2/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-12-responsible-consumption-and-production-7x2wmc
+    files: []
+    path: entities/v1-alpha/s/sdg-12-responsible-consumption-and-production-7x2wmc/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-13-climate-action-zne4mx
+    files: []
+    path: entities/v1-alpha/s/sdg-13-climate-action-zne4mx/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-14-life-below-water-uy5vzm
+    files: []
+    path: entities/v1-alpha/s/sdg-14-life-below-water-uy5vzm/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-15-life-on-land-zsr4er
+    files: []
+    path: entities/v1-alpha/s/sdg-15-life-on-land-zsr4er/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-16-peace-justice-and-strong-institutions-uuad37
+    files: []
+    path: entities/v1-alpha/s/sdg-16-peace-justice-and-strong-institutions-uuad37/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-17-partnerships-for-the-goals-nhd5m3
+    files: []
+    path: entities/v1-alpha/s/sdg-17-partnerships-for-the-goals-nhd5m3/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-2-zero-hunger-mxqwz5
+    files: []
+    path: entities/v1-alpha/s/sdg-2-zero-hunger-mxqwz5/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-3-good-health-and-well-being-ht5d6g
+    files: []
+    path: entities/v1-alpha/s/sdg-3-good-health-and-well-being-ht5d6g/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-4-quality-education-664za6
+    files: []
+    path: entities/v1-alpha/s/sdg-4-quality-education-664za6/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-5-gender-equality-prmgmp
+    files: []
+    path: entities/v1-alpha/s/sdg-5-gender-equality-prmgmp/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-6-clean-water-and-sanitation-vry7b5
+    files: []
+    path: entities/v1-alpha/s/sdg-6-clean-water-and-sanitation-vry7b5/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-7-affordable-and-clean-energy-be5zqp
+    files: []
+    path: entities/v1-alpha/s/sdg-7-affordable-and-clean-energy-be5zqp/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-8-decent-work-and-economic-growth-8s3374
+    files: []
+    path: entities/v1-alpha/s/sdg-8-decent-work-and-economic-growth-8s3374/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-9-industry-innovation-and-infrastructure-ke4r5y
+    files: []
+    path: entities/v1-alpha/s/sdg-9-industry-innovation-and-infrastructure-ke4r5y/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-1-1-zx3wkv
+    files: []
+    path: entities/v1-alpha/s/sdg-target-1-1-zx3wkv/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-1-2-dvp5x3
+    files: []
+    path: entities/v1-alpha/s/sdg-target-1-2-dvp5x3/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-1-3-2m3uva
+    files: []
+    path: entities/v1-alpha/s/sdg-target-1-3-2m3uva/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-1-4-5r95wm
+    files: []
+    path: entities/v1-alpha/s/sdg-target-1-4-5r95wm/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-1-5-rusakd
+    files: []
+    path: entities/v1-alpha/s/sdg-target-1-5-rusakd/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-1-6-mu3gzw
+    files: []
+    path: entities/v1-alpha/s/sdg-target-1-6-mu3gzw/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-1-7-jdng53
+    files: []
+    path: entities/v1-alpha/s/sdg-target-1-7-jdng53/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-1-kuwbvb
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-1-kuwbvb/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-10-nvj9c6
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-10-nvj9c6/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-2-kd3gvn
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-2-kd3gvn/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-3-6jb5bp
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-3-6jb5bp/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-4-54ueq5
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-4-54ueq5/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-5-yv6w54
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-5-yv6w54/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-6-4h84wu
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-6-4h84wu/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-7-yxy9w3
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-7-yxy9w3/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-8-7uv2em
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-8-7uv2em/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-10-9-j9trsa
+    files: []
+    path: entities/v1-alpha/s/sdg-target-10-9-j9trsa/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-1-y8u84j
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-1-y8u84j/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-10-ntvcr9
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-10-ntvcr9/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-2-2prruf
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-2-2prruf/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-3-t3xtxa
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-3-t3xtxa/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-4-ytxu69
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-4-ytxu69/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-5-3dxvvk
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-5-3dxvvk/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-6-2byayh
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-6-2byayh/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-7-z89hn6
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-7-z89hn6/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-8-p2mtsh
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-8-p2mtsh/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-11-9-ypyqse
+    files: []
+    path: entities/v1-alpha/s/sdg-target-11-9-ypyqse/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-1-b93gak
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-1-b93gak/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-10-xnyass
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-10-xnyass/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-11-nt46kb
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-11-nt46kb/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-2-hcmga8
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-2-hcmga8/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-3-6nxsvt
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-3-6nxsvt/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-4-2rbc9c
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-4-2rbc9c/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-5-ncj5ju
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-5-ncj5ju/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-6-cs25y7
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-6-cs25y7/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-7-g9bnxx
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-7-g9bnxx/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-8-p3kj7r
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-8-p3kj7r/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-12-9-mvc4uh
+    files: []
+    path: entities/v1-alpha/s/sdg-target-12-9-mvc4uh/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-13-1-z8uqjw
+    files: []
+    path: entities/v1-alpha/s/sdg-target-13-1-z8uqjw/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-13-2-48dt64
+    files: []
+    path: entities/v1-alpha/s/sdg-target-13-2-48dt64/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-13-3-z6nww8
+    files: []
+    path: entities/v1-alpha/s/sdg-target-13-3-z6nww8/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-13-4-pq5p9w
+    files: []
+    path: entities/v1-alpha/s/sdg-target-13-4-pq5p9w/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-13-5-vv984g
+    files: []
+    path: entities/v1-alpha/s/sdg-target-13-5-vv984g/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-14-1-hu2v6j
+    files: []
+    path: entities/v1-alpha/s/sdg-target-14-1-hu2v6j/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-14-2-8qufzg
+    files: []
+    path: entities/v1-alpha/s/sdg-target-14-2-8qufzg/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-14-3-ezq5qu
+    files: []
+    path: entities/v1-alpha/s/sdg-target-14-3-ezq5qu/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-14-4-anrery
+    files: []
+    path: entities/v1-alpha/s/sdg-target-14-4-anrery/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-14-5-9m4m32
+    files: []
+    path: entities/v1-alpha/s/sdg-target-14-5-9m4m32/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-14-6-2qqer5
+    files: []
+    path: entities/v1-alpha/s/sdg-target-14-6-2qqer5/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-14-7-ck5h7t
+    files: []
+    path: entities/v1-alpha/s/sdg-target-14-7-ck5h7t/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-1-95b4wh
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-1-95b4wh/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-2-9qym8f
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-2-9qym8f/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-3-tpmtng
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-3-tpmtng/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-4-xp7p5m
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-4-xp7p5m/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-5-zjy2f7
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-5-zjy2f7/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-6-5t85dx
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-6-5t85dx/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-7-kymzp3
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-7-kymzp3/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-8-t2wqut
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-8-t2wqut/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-15-9-qchgv5
+    files: []
+    path: entities/v1-alpha/s/sdg-target-15-9-qchgv5/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-1-u6py53
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-1-u6py53/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-10-kqzcp9
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-10-kqzcp9/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-11-p4ecfa
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-11-p4ecfa/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-12-jweucu
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-12-jweucu/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-2-h3hqr5
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-2-h3hqr5/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-3-a84k4x
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-3-a84k4x/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-4-n8nce4
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-4-n8nce4/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-5-42bs66
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-5-42bs66/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-6-knxswe
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-6-knxswe/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-7-wk3bzr
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-7-wk3bzr/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-8-j4nt4p
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-8-j4nt4p/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-16-9-juq4uu
+    files: []
+    path: entities/v1-alpha/s/sdg-target-16-9-juq4uu/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-1-xcgmvd
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-1-xcgmvd/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-10-axpvtw
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-10-axpvtw/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-11-hq47bt
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-11-hq47bt/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-12-nc3pvr
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-12-nc3pvr/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-13-vnky4p
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-13-vnky4p/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-14-xtcc3u
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-14-xtcc3u/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-15-jk3yhv
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-15-jk3yhv/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-16-hnzhrv
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-16-hnzhrv/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-17-z7x2uv
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-17-z7x2uv/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-18-buyxwa
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-18-buyxwa/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-19-prxsua
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-19-prxsua/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-2-3an4mn
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-2-3an4mn/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-3-mb3vyz
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-3-mb3vyz/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-4-gsd8x5
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-4-gsd8x5/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-5-4hqgsg
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-5-4hqgsg/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-6-n3bfwh
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-6-n3bfwh/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-7-y36d2w
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-7-y36d2w/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-8-e7t8wn
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-8-e7t8wn/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-17-9-9m9znf
+    files: []
+    path: entities/v1-alpha/s/sdg-target-17-9-9m9znf/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-2-1-9va52j
+    files: []
+    path: entities/v1-alpha/s/sdg-target-2-1-9va52j/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-2-2-fsvsfe
+    files: []
+    path: entities/v1-alpha/s/sdg-target-2-2-fsvsfe/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-2-3-am9jmn
+    files: []
+    path: entities/v1-alpha/s/sdg-target-2-3-am9jmn/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-2-4-bns8s6
+    files: []
+    path: entities/v1-alpha/s/sdg-target-2-4-bns8s6/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-2-5-n373fj
+    files: []
+    path: entities/v1-alpha/s/sdg-target-2-5-n373fj/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-2-6-a4n3r7
+    files: []
+    path: entities/v1-alpha/s/sdg-target-2-6-a4n3r7/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-2-7-rf5mue
+    files: []
+    path: entities/v1-alpha/s/sdg-target-2-7-rf5mue/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-2-8-gk7kvq
+    files: []
+    path: entities/v1-alpha/s/sdg-target-2-8-gk7kvq/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-1-ph8vam
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-1-ph8vam/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-10-3394r4
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-10-3394r4/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-11-bmhppr
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-11-bmhppr/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-12-3jq6uu
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-12-3jq6uu/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-13-xatpfv
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-13-xatpfv/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-2-7dj879
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-2-7dj879/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-3-ftgt6f
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-3-ftgt6f/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-4-s73jms
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-4-s73jms/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-5-tyzfqb
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-5-tyzfqb/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-6-b99r2f
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-6-b99r2f/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-7-z6tpxh
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-7-z6tpxh/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-8-fgq9kh
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-8-fgq9kh/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-3-9-kny3dp
+    files: []
+    path: entities/v1-alpha/s/sdg-target-3-9-kny3dp/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-1-g3rdp4
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-1-g3rdp4/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-10-d9a8tj
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-10-d9a8tj/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-2-rfteaw
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-2-rfteaw/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-3-45qwnt
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-3-45qwnt/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-4-gumyzn
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-4-gumyzn/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-5-dtzsxv
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-5-dtzsxv/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-6-mjksnf
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-6-mjksnf/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-7-enyzvb
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-7-enyzvb/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-8-8b3nz7
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-8-8b3nz7/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-4-9-5ces4k
+    files: []
+    path: entities/v1-alpha/s/sdg-target-4-9-5ces4k/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-1-m5bnw8
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-1-m5bnw8/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-2-h4xtxy
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-2-h4xtxy/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-3-4znbx2
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-3-4znbx2/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-4-9en42e
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-4-9en42e/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-5-7q4hmk
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-5-7q4hmk/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-6-ccn35t
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-6-ccn35t/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-7-vs7mtc
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-7-vs7mtc/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-8-tb45u6
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-8-tb45u6/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-5-9-rhh25c
+    files: []
+    path: entities/v1-alpha/s/sdg-target-5-9-rhh25c/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-6-1-fdet5a
+    files: []
+    path: entities/v1-alpha/s/sdg-target-6-1-fdet5a/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-6-2-uj74wr
+    files: []
+    path: entities/v1-alpha/s/sdg-target-6-2-uj74wr/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-6-3-ft8mcp
+    files: []
+    path: entities/v1-alpha/s/sdg-target-6-3-ft8mcp/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-6-4-ez3t55
+    files: []
+    path: entities/v1-alpha/s/sdg-target-6-4-ez3t55/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-6-5-9mw76u
+    files: []
+    path: entities/v1-alpha/s/sdg-target-6-5-9mw76u/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-6-6-twupeg
+    files: []
+    path: entities/v1-alpha/s/sdg-target-6-6-twupeg/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-6-7-4454sd
+    files: []
+    path: entities/v1-alpha/s/sdg-target-6-7-4454sd/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-6-8-dcx2hz
+    files: []
+    path: entities/v1-alpha/s/sdg-target-6-8-dcx2hz/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-7-1-s7vd6u
+    files: []
+    path: entities/v1-alpha/s/sdg-target-7-1-s7vd6u/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-7-2-zqn3un
+    files: []
+    path: entities/v1-alpha/s/sdg-target-7-2-zqn3un/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-7-3-e8889k
+    files: []
+    path: entities/v1-alpha/s/sdg-target-7-3-e8889k/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-7-4-3cbn56
+    files: []
+    path: entities/v1-alpha/s/sdg-target-7-4-3cbn56/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-7-5-8yfccj
+    files: []
+    path: entities/v1-alpha/s/sdg-target-7-5-8yfccj/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-1-3nqqen
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-1-3nqqen/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-10-s7dvs5
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-10-s7dvs5/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-11-qaz5df
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-11-qaz5df/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-12-42thsp
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-12-42thsp/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-2-37rnsw
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-2-37rnsw/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-3-h3hsu4
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-3-h3hsu4/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-4-gfrxww
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-4-gfrxww/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-5-k2yhfr
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-5-k2yhfr/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-6-eukam2
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-6-eukam2/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-7-hadhmv
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-7-hadhmv/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-8-v3bhge
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-8-v3bhge/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-8-9-wq69xm
+    files: []
+    path: entities/v1-alpha/s/sdg-target-8-9-wq69xm/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-9-1-6fvc6s
+    files: []
+    path: entities/v1-alpha/s/sdg-target-9-1-6fvc6s/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-9-2-uyjpvb
+    files: []
+    path: entities/v1-alpha/s/sdg-target-9-2-uyjpvb/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-9-3-g85x4m
+    files: []
+    path: entities/v1-alpha/s/sdg-target-9-3-g85x4m/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-9-4-6babnu
+    files: []
+    path: entities/v1-alpha/s/sdg-target-9-4-6babnu/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-9-5-kn87tw
+    files: []
+    path: entities/v1-alpha/s/sdg-target-9-5-kn87tw/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-9-6-cunz39
+    files: []
+    path: entities/v1-alpha/s/sdg-target-9-6-cunz39/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-9-7-jrcdev
+    files: []
+    path: entities/v1-alpha/s/sdg-target-9-7-jrcdev/candidates/research/
+  - entity_id: dea:strategic-objective-sdg-target-9-8-tat468
+    files: []
+    path: entities/v1-alpha/s/sdg-target-9-8-tat468/candidates/research/
   status: active
   version: 0.1.0

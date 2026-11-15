@@ -1,18 +1,20 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Goal 2
 name: 'SDG 2: Zero Hunger'
-description: UN Sustainable Development Goal 2 (Zero Hunger) — published objective of the 2030 Agenda
-  for Sustainable Development, adopted by all UN Member States.
+description: UN Sustainable Development Goal 2 (Zero Hunger) — published objective
+  of the 2030 Agenda for Sustainable Development, adopted by all UN Member States.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal2 (UN 2030 Agenda; Goal 2)
-  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org). Goal identifiers verbatim
-    from the published framework.
+  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org).
+    Goal identifiers verbatim from the published framework.
 tags:
 - un-sdg
 - goal-2
 slug: sdg-2-zero-hunger
+assigned_id: dea:strategic-objective-sdg-2-zero-hunger-mxqwz5
+admitted: '2026-11-15'

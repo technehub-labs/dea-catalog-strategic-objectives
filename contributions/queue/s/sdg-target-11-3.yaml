@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: un-sdg.json
 source_ref: UN SDG Target 11.3
 name: SDG Target 11.3 (Sustainable Cities and Communities)
-description: UN Sustainable Development Target 11.3 under Goal 11 (Sustainable Cities and Communities)
-  — a published objective component of the 2030 Agenda. Target text is published verbatim at the cited
-  page.
+description: UN Sustainable Development Target 11.3 under Goal 11 (Sustainable Cities
+  and Communities) — a published objective component of the 2030 Agenda. Target text
+  is published verbatim at the cited page.
 evidence:
   sources:
   - kind: published-document
     reference: https://sdgs.un.org/goals/goal11 (UN 2030 Agenda; Target 11.3)
-  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers verbatim; target
-    text published at the cited page).
+  rationale: Cited from the UN 2030 Agenda published target framework (target identifiers
+    verbatim; target text published at the cited page).
 tags:
 - un-sdg
 - goal-11
 - target
 slug: sdg-target-11-3
+assigned_id: dea:strategic-objective-sdg-target-11-3-t3xtxa
+admitted: '2026-11-15'
