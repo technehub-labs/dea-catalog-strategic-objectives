@@ -1,0 +1,18 @@
+# Ingestion manifest — StrategicObjective candidate corpus (CR-SO-CAT-03)
+# Records are candidates only (queue status: queued; admitted at
+# lifecycle_status: proposed / version 0.1.0 by the gated workflow).
+
+generated: '2026-11-15'
+generated_by: ingest-kit generate_queue.py (catalog population programme)
+submitted_by: Emmanuel A. Otchere
+record_count: 180
+sources:
+- bank: un-sdg.json
+  source: "UN 2030 Agenda SDG framework (goals + targets, sdgs.un.org)"
+  url: "https://sdgs.un.org/goals"
+  published: "https://sdgs.un.org/goals"
+  retrieved: '2026-11-15'
+  sha256: c1d9946b8546156a2d6f78f0e573aaf1f2a4bf2fc4c0f4344c40a06e9072069c
+  records: 180
+queue_layout: contributions/queue/<shard>/<slug>.yaml (entity-storage-layout §4;
+  letter shards; slug prefixes chosen to keep every shard under the 800-entry cap)
