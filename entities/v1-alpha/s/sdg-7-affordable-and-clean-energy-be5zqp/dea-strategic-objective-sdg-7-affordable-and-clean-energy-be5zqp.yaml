@@ -1,0 +1,42 @@
+id: dea:strategic-objective-sdg-7-affordable-and-clean-energy-be5zqp
+type: StrategicObjective
+name: 'SDG 7: Affordable and Clean Energy'
+description: UN Sustainable Development Goal 7 (Affordable and Clean Energy) — published
+  objective of the 2030 Agenda for Sustainable Development, adopted by all UN Member
+  States.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://sdgs.un.org/goals/goal7 (UN 2030 Agenda; Goal 7)
+  rationale: Cited from the UN 2030 Agenda published goal framework (sdgs.un.org).
+    Goal identifiers verbatim from the published framework.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- un-sdg
+- goal-7
